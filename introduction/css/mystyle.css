@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://img.freepik.com/free-photo/brown-watercolor-leaf-background-aesthetic-autumn-season_53876-143134.jpg?semt=ais_hybrid&w=740&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: goldenrod;
+    text-align: center;
+}
+
+p {
+    text-align: auto;
+    color: gold;
+    text-shadow: 2px 2px 4px #000000;
+}
