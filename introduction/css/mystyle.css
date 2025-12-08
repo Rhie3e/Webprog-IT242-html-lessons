@@ -6,14 +6,9 @@ body {
     background-attachment: fixed;
 }
 
-h1 {
-    color: goldenrod;
-    text-align: center;
-}
-
 p {
     text-align: auto;
-    color: gold;
+    color: black;
     text-shadow: 2px 2px 4px #000000;
 }
 
