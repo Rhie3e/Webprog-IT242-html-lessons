@@ -1,14 +1,30 @@
+body {
+  background: #f7f7f7;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
 .container {
   display: flex;
-  flex-wrap: wrap;
-  background-color: DodgerBlue;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
 }
 
 .container div {
-  background-color: #f1f1f1;
-  width: 100px;
-  margin: 10px;
-  padding: 10px;
-  text-align: center;  
-  font-size: 30px;
+  background-color: white;
+  width: 260px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+  font-size: 16px;
+  text-align: center;
+}
+
+.container img {
+  margin-top: 10px;
+  width: 150px;
 }
