@@ -16,6 +16,7 @@ h1 {
 
 .container div {
   width: 260px;
+  height: 150px;
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 0 8px rgba(0,0,0,0.2);
@@ -30,16 +31,17 @@ h1 {
 
 <style>
   .Aboutme {
-    background-color: #ffcccb; /* light red/pink */
-    width: 300px;              /* container width */
-    padding: 15px;             /* space inside the box */
-    border-radius: 10px;       /* rounded corners */
-    color: #000000;            /* text color */
-    margin-bottom: 20px;       /* spacing between boxes */
+    background-color: cornflowerblue;
+    width: 300px;
+    height: 150px;              
+    padding: 15px;             
+    border-radius: 10px;       
+    color: #000000;            
+    margin-bottom: 20px;       
   }
 
   .hobbies {
-    background-color: #cce7ff; /* light blue */
+    background-color: #cce7ff; 
     width: 400px;
     padding: 15px;
     border-radius: 10px;
@@ -48,15 +50,15 @@ h1 {
   }
 
   .Pics {
-    background-color: #d5ffd5; /* light green */
+    background-color: #d5ffd5; 
     width: 500px;
     padding: 15px;
     border-radius: 10px;
-    text-align: center;        /* center the images */
+    text-align: center;        
     color: #000000;
   }
 
-  /* Optional: spacing between images */
+
   .Pics img {
     margin: 10px;
   }
